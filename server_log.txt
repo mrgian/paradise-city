@@ -1248,3 +1248,118 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 
 *** Streamer Plugin v2.9.4 by Incognito unloaded ***
 
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:14:23] 
+[23:14:23] Server Plugins
+[23:14:23] --------------
+[23:14:23]  Loading plugin: streamer
+[23:14:23] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:14:23]   Loaded.
+[23:14:23]  Loaded 1 plugins.
+
+[23:14:23] 
+[23:14:23] Filterscripts
+[23:14:23] ---------------
+[23:14:23]   Loading filterscript 'realtime.amx'...
+[23:14:23]   Loaded 1 filterscripts.
+
+[23:14:23] Loading Paradise City gamemode...
+[23:14:23] Number of vehicle models: 0
+[23:16:23] [connection] 127.0.0.1:52799 requests connection cookie.
+[23:16:24] [connection] incoming connection: 127.0.0.1:52799 id: 0
+[23:16:25] [join] Mr.Gian has joined the server (0:127.0.0.1)
+[23:16:59] [part] Mr.Gian has left the server (0:1)
+[23:17:54] [connection] 127.0.0.1:65056 requests connection cookie.
+[23:17:55] [connection] incoming connection: 127.0.0.1:65056 id: 0
+[23:17:55] [join] Mr.Gian has joined the server (0:127.0.0.1)
+[23:22:48] --- Server Shutting Down.
+[23:22:48] [part] Mr.Gian has left the server (0:0)
+[23:22:48] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:22:49] 
+[23:22:49] Server Plugins
+[23:22:49] --------------
+[23:22:49]  Loading plugin: streamer
+[23:22:49] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:22:49]   Loaded.
+[23:22:49]  Loaded 1 plugins.
+
+[23:22:49] 
+[23:22:49] Filterscripts
+[23:22:49] ---------------
+[23:22:49]   Loading filterscript 'realtime.amx'...
+[23:22:49]   Loaded 1 filterscripts.
+
+[23:22:49] Loading Paradise City gamemode...
+[23:22:49] Number of vehicle models: 0
+[23:23:44] [connection] 127.0.0.1:62258 requests connection cookie.
+[23:23:45] [connection] incoming connection: 127.0.0.1:62258 id: 0
+[23:23:45] [join] Mr.Gian has joined the server (0:127.0.0.1)
+[23:24:09] [part] Mr.Gian has left the server (0:1)
+[23:24:22] --- Server Shutting Down.
+[23:24:22] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:24:23] 
+[23:24:23] Server Plugins
+[23:24:23] --------------
+[23:24:23]  Loading plugin: streamer
+[23:24:23] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:24:23]   Loaded.
+[23:24:23]  Loaded 1 plugins.
+
+[23:24:23] 
+[23:24:23] Filterscripts
+[23:24:23] ---------------
+[23:24:23]   Loading filterscript 'realtime.amx'...
+[23:24:23]   Loaded 1 filterscripts.
+
+[23:24:23] Loading Paradise City gamemode...
+[23:24:23] Number of vehicle models: 0
+[23:24:43] [connection] 127.0.0.1:54233 requests connection cookie.
+[23:24:44] [connection] incoming connection: 127.0.0.1:54233 id: 0
+[23:24:44] [join] Mr.Gian has joined the server (0:127.0.0.1)
+[23:25:06] [part] Mr.Gian has left the server (0:1)
+[23:26:04] --- Server Shutting Down.
+[23:26:04] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
