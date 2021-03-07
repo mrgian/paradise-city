@@ -2,7 +2,7 @@
 
 main()
 {
-	print("Loading Paradise City gamemode...");
+	print("Caricamento gamemode...\n");
 }
 
 public OnGameModeInit()
