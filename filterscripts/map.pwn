@@ -3,8 +3,6 @@
 
 public OnFilterScriptInit()
 {
-    print("Caricamento mappa...\n");
-
     CreateDynamicObject(3268, 213.41000, 1884.81995, 16.63000,   0.00000, 0.00000, -90.00000);
     CreateDynamicObject(3279, 267.26001, 1858.26001, 16.82000,   356.85999, 0.00000, 3.14000);
     CreateDynamicObject(16093, 283.01001, 1834.31006, 20.72000,   0.00000, 0.00000, -89.30000);
